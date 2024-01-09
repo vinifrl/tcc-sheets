@@ -38,7 +38,7 @@ O objetivo principal desta pesquisa é averiguar o cumprimento da Logística Rev
 ## Planilhas de Respostas
 Aqui estão os links para as planilhas que contêm as respostas das empresas que foram arguidas durante o processo de averiguação:
 
-- [Distribuidores](https://docs.google.com/spreadsheets/d/1YS8Wpswo-YC1SQyO4fuJOn0TOkLA99izsqcHLS5QkLE/edit?usp=sharing)
+- [Distribuidores](https://docs.google.com/spreadsheets/d/1_9GmCSYIBlck2VQbjIxxf8prKJAj0nqn-ThlUpODLY8/edit?usp=sharing)
 - [Fabricantes](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
 - [Comerciantes](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
 - [Coperativas](https://docs.google.com/spreadsheets/d/1elgAY8Xc2p_kNHCcXKklRaldBXr2gxnDrjhyqn-3b-U/edit?usp=sharing)
