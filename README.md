@@ -14,7 +14,7 @@ Here are the links to the spreadsheets containing the responses from the compani
 - [Manufacturers](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
 - [Merchants](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
 - [Cooperatives](https://docs.google.com/spreadsheets/d/1elgAY8Xc2p_kNHCcXKklRaldBXr2gxnDrjhyqn-3b-U/edit?usp=sharing)
-- [Importers](https://docs.google.com/spreadsheets/d/1WYyJHvLydb5J7ruZ-kyeyYT8sZlDsg6WcA-J11vfPn4/edit?usp=sharing)
+- [Importers](https://docs.google.com/spreadsheets/d/1oArWTerRD6X_yAsCa8hhU5MkjUOS9xlYH-4vXyCD3d4/edit?usp=sharing)
 - [City Halls](https://docs.google.com/spreadsheets/d/1sXTpzL3KLTz9Gb6e0EbgGxZzHhX-D6snA1lIYJKaA8k/edit?usp=sharing)
 
 These spreadsheets provide a detailed overview of the received responses, allowing for a more in-depth analysis of compliance or non-compliance with Reverse Logistics guidelines.
@@ -42,7 +42,7 @@ Aqui estão os links para as planilhas que contêm as respostas das empresas que
 - [Fabricantes](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
 - [Comerciantes](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
 - [Coperativas](https://docs.google.com/spreadsheets/d/1elgAY8Xc2p_kNHCcXKklRaldBXr2gxnDrjhyqn-3b-U/edit?usp=sharing)
-- [Importadores](https://docs.google.com/spreadsheets/d/1WYyJHvLydb5J7ruZ-kyeyYT8sZlDsg6WcA-J11vfPn4/edit?usp=sharing)
+- [Importadores](https://docs.google.com/spreadsheets/d/1oArWTerRD6X_yAsCa8hhU5MkjUOS9xlYH-4vXyCD3d4/edit?usp=sharing)
 - [Prefeituras](https://docs.google.com/spreadsheets/d/1sXTpzL3KLTz9Gb6e0EbgGxZzHhX-D6snA1lIYJKaA8k/edit?usp=sharing)
 
 As planilhas fornecem uma visão detalhada das respostas recebidas, permitindo uma análise mais aprofundada do cumprimento ou não cumprimento das diretrizes da Logística Reversa.
