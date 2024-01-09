@@ -10,7 +10,7 @@ The main objective of this research is to verify compliance with the Reverse Log
 ## Response Spreadsheets
 Here are the links to the spreadsheets containing the responses from the companies that were queried during the investigation:
 
-- [Distributors](https://docs.google.com/spreadsheets/d/1YS8Wpswo-YC1SQyO4fuJOn0TOkLA99izsqcHLS5QkLE/edit?usp=sharing)
+- [Distributors](https://docs.google.com/spreadsheets/d/1_9GmCSYIBlck2VQbjIxxf8prKJAj0nqn-ThlUpODLY8/edit?usp=sharing)
 - [Manufacturers](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
 - [Merchants](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
 - [Cooperatives](https://docs.google.com/spreadsheets/d/1elgAY8Xc2p_kNHCcXKklRaldBXr2gxnDrjhyqn-3b-U/edit?usp=sharing)
