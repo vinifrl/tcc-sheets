@@ -11,9 +11,9 @@ The main objective of this research is to verify compliance with the Reverse Log
 Here are the links to the spreadsheets containing the responses from the companies that were queried during the investigation:
 
 - [Distributors](https://docs.google.com/spreadsheets/d/1_9GmCSYIBlck2VQbjIxxf8prKJAj0nqn-ThlUpODLY8/edit?usp=sharing)
-- [Manufacturers](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
 - [Merchants](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
 - [Cooperatives](https://docs.google.com/spreadsheets/d/1elgAY8Xc2p_kNHCcXKklRaldBXr2gxnDrjhyqn-3b-U/edit?usp=sharing)
+- [Manufacturers](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
 - [Importers](https://docs.google.com/spreadsheets/d/1oArWTerRD6X_yAsCa8hhU5MkjUOS9xlYH-4vXyCD3d4/edit?usp=sharing)
 - [City Halls](https://docs.google.com/spreadsheets/d/1sXTpzL3KLTz9Gb6e0EbgGxZzHhX-D6snA1lIYJKaA8k/edit?usp=sharing)
 
@@ -39,9 +39,9 @@ O objetivo principal desta pesquisa é averiguar o cumprimento da Logística Rev
 Aqui estão os links para as planilhas que contêm as respostas das empresas que foram arguidas durante o processo de averiguação:
 
 - [Distribuidores](https://docs.google.com/spreadsheets/d/1_9GmCSYIBlck2VQbjIxxf8prKJAj0nqn-ThlUpODLY8/edit?usp=sharing)
-- [Fabricantes](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
 - [Comerciantes](https://docs.google.com/spreadsheets/d/1lbnEPV4-CQUuy-w_ME88JsqlxdQ0zQIFKJ0vZbqvwBc/edit?usp=sharing)
 - [Coperativas](https://docs.google.com/spreadsheets/d/1elgAY8Xc2p_kNHCcXKklRaldBXr2gxnDrjhyqn-3b-U/edit?usp=sharing)
+- [Fabricantes](https://docs.google.com/spreadsheets/d/1lN6Ok7iyFMuc1FKns6t6chbiS4pMNNeyIC8M7tEN6w0/edit?usp=sharing)
 - [Importadores](https://docs.google.com/spreadsheets/d/1oArWTerRD6X_yAsCa8hhU5MkjUOS9xlYH-4vXyCD3d4/edit?usp=sharing)
 - [Prefeituras](https://docs.google.com/spreadsheets/d/1sXTpzL3KLTz9Gb6e0EbgGxZzHhX-D6snA1lIYJKaA8k/edit?usp=sharing)
 
